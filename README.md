@@ -3,7 +3,7 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 
 ## How to Run
 Pull the docker image from
-https://cloud.docker.com/repository/docker/dmanius/radarrsync-docker
+https://hub.docker.com/r/dmanius/radarrsync-docker
 
 You need to pass in the following environment variables:
 - RADARR_URL -> The endpoint of your radarr server
